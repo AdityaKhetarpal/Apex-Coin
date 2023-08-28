@@ -1,2 +1,11 @@
-# Apex-Coin
-This repository contains a JavaScript implementation of a fungible token on the Algorand blockchain. The token is built using the Algorand Standard Asset (ASA) framework, which allows for the creation and management of digital assets on the Algorand network
+# Create a Fungible Token on Algorand with JS
+
+This project demonstrates how to create a fungible token on the Algorand blockchain using JavaScript.
+
+## Prerequisites
+
+Before getting started, make sure you have the following:
+
+- Node.js installed on your machine
+- An Algorand wallet address and mnemonic phrase
+
