@@ -9,5 +9,4 @@ Before getting started, make sure you have the following:
 - Node.js installed on your machine
 - An Algorand wallet address and mnemonic phrase
 
-  ![Image description](apex.png)
 
